@@ -1,0 +1,281 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "fad83b9a-c87e-473b-9bca-d545ab405e06",
+   "metadata": {},
+   "source": [
+    "# H1: Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "09bf6476-5193-4f9c-8ad7-f33f829179ef",
+   "metadata": {},
+   "source": [
+    "_In this notebook, Data Science Tools and Ecosystem are summarized._"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7729832a-5887-41aa-b377-d6078ba879cb",
+   "metadata": {},
+   "source": [
+    "Objectives:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a0a476f5-2f5b-4686-a95e-b51a7c37ca47",
+   "metadata": {},
+   "source": [
+    "- Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fe756a43-ccba-47ea-8395-b7ff244ed428",
+   "metadata": {},
+   "source": [
+    "- R"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "158c656b-f113-43c8-b6b3-2d522d2831ab",
+   "metadata": {},
+   "source": [
+    "- Julia"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fddd45b6-7c1f-4c12-841c-c9ab5d5fe520",
+   "metadata": {},
+   "source": [
+    "__Some of the popular languages that Data Scientists use are:__"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a6c3483a-6d5b-4131-aa62-6a4c13bb295c",
+   "metadata": {},
+   "source": [
+    "1. Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a69e83fa-6ac8-431a-a491-3a2046fc9498",
+   "metadata": {},
+   "source": [
+    "2. SQL"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ab9857b2-abde-400c-bbc5-2f023e864f66",
+   "metadata": {},
+   "source": [
+    "3. R"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a652126d-bd1e-4f79-b82e-53b2e5302d1a",
+   "metadata": {},
+   "source": [
+    "4.Julia"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "885d84e4-e25d-4352-9bce-c5bec304574e",
+   "metadata": {},
+   "source": [
+    "__Some of the commonly used libraries used by Data Scientists include:__"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "cf7d8d9c-72bd-4b20-b518-821e7e702962",
+   "metadata": {},
+   "source": [
+    "1. TensorFlow"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ce46784e-d148-4b46-ba74-e8f5e61f3fc9",
+   "metadata": {},
+   "source": [
+    "2. NumPy"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3af97bf6-ed6a-4e2e-9fed-369d83b7ccc5",
+   "metadata": {},
+   "source": [
+    "3. SciPy"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7b4798fa-ef1f-49f5-aa91-93f85437509f",
+   "metadata": {},
+   "source": [
+    "4. Pandas"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4edf9b21-5ab2-4103-99af-349229b8086e",
+   "metadata": {},
+   "source": [
+    "| Data Science Tools |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7189c649-b34e-4f63-aef7-20a90e8d6ee3",
+   "metadata": {},
+   "source": [
+    "|------------------- |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4c14a92e-b250-4a67-b9aa-39d26c47255f",
+   "metadata": {},
+   "source": [
+    "| Tableau |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ade092ea-c98b-47a3-bf80-3a39a2433219",
+   "metadata": {},
+   "source": [
+    "| Jupyter Notebook |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "207dfae6-ad3f-4a1e-93ea-5320706127e0",
+   "metadata": {},
+   "source": [
+    "| Python |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "574d4243-15e4-477a-8371-f1e81a95deeb",
+   "metadata": {},
+   "source": [
+    "# H3: Below are a few examples of evaluating arithmetic expressions in Python"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "ac7346fe-f34a-4ad9-aa9b-7a319b1bf025",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    " (3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "14d8189a-aa90-4d2e-86d9-be1426096440",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "This will convert 200 minutes to hours by diving by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "c3271abf-27f7-43c7-81c7-2dc2e2bd51bc",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200/60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "83d33f77-d882-497f-8456-66f9cfa402ab",
+   "metadata": {},
+   "source": [
+    "# H2: Author"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "38b5f268-a5c5-406f-bfe5-d3f7c30313c4",
+   "metadata": {},
+   "source": [
+    "Moshidi Mofulatsi"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "029a17e0-d013-4fef-af03-fb5f0e25e77e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
